@@ -15,4 +15,4 @@
 
 
 
-[Linkedin]: (https://www.linkedin.com/in/jonathan-aguilar-7a4613345/)
+[Linkedin]: (https://www.linkedin.com/in/jonathan-aguilar)
